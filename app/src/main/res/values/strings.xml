@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="namaHotel">
+        <item>Hotel 1</item>
+        <item>Hotel 2</item>
+        <item>Hotel 3</item>
+        <item>Hotel 4</item>
+        <item>Hotel 5</item>
+        <item>Hotel 6</item>
+        <item>Hotel 7</item>
+        <item>Hotel 8</item>
+        <item>Hotel 9</item>
+        <item>Hotel 10</item>
+    </string-array>
+
+    <string-array name="alamat">
+        <item>Jakarta, 5km dari pusat</item>
+        <item>Jakarta, 9km dari pusat</item>
+        <item>Jakarta, 2km dari pusat</item>
+        <item>Jakarta, 6km dari pusat</item>
+        <item>Jakarta, 4km dari pusat</item>
+        <item>Jakarta, 5km dari pusat</item>
+        <item>Jakarta, 12km dari pusat</item>
+        <item>Jakarta, 1km dari pusat</item>
+        <item>Jakarta, 0.5km dari pusat</item>
+        <item>Jakarta, 3.5km dari pusat</item>
+    </string-array>
+
+    <string-array name="destinasi">
+        <item>300 m dari pantai</item>
+        <item>600 m dari pantai</item>
+        <item>250 m dari pantai</item>
+        <item>Tepi pantai</item>
+        <item>100 m dari pantai</item>
+        <item>800 m dari pantai</item>
+        <item>600 m dari pantai</item>
+        <item>1200 m dari pantai</item>
+        <item>Tepi pantai</item>
+        <item>30 m dari pantai</item>
+    </string-array>
+
+    <string-array name="descripton">
+        <item>Harga untuk 1 malam, 4 dewasa</item>
+        <item>Harga untuk 1 malam, 3 dewasa</item>
+        <item>Harga untuk 1 malam, 6 dewasa</item>
+        <item>Harga untuk 1 malam, 3 dewasa</item>
+        <item>Harga untuk 1 malam, 6 dewasa</item>
+        <item>Harga untuk 1 malam, 7 dewasa</item>
+        <item>Harga untuk 1 malam, 2 dewasa</item>
+        <item>Harga untuk 1 malam, 3 dewasa</item>
+        <item>Harga untuk 1 malam, 4 dewasa</item>
+        <item>Harga untuk 1 malam, 3 dewasa</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>IDR 1190,00</item>
+        <item>IDR 1110,00</item>
+        <item>IDR 1210,00</item>
+        <item>IDR 1830,00</item>
+        <item>IDR 1720,00</item>
+        <item>IDR 1460,00</item>
+        <item>IDR 1630,00</item>
+        <item>IDR 1520,00</item>
+        <item>IDR 1340,00</item>
+        <item>IDR 1300,00</item>
+    </string-array>
+
+</resources>
